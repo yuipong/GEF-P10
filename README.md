@@ -1,2 +1,2 @@
 # Healthian
-A Blockchain-based Electronic Healthcare Record(EHR) system
+A Blockchain-based Electronic Health Record(EHR) system
