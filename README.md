@@ -1,2 +1,2 @@
-# GEF-P10
-GEF Project Group 10
+# Healthian
+A Blockchain-based Electronic Healthcare Record(EHR) system
